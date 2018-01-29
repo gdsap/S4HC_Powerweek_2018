@@ -84,7 +84,8 @@ Now that the project is in place we can build it through a very simple Maven com
 	```
 	mvn clean install
 	```
-1. This command will download all the required artifacts from the Maven Central repository and will build the project  
+	<< Note: For this to execute the mvn repo should be present inside this >>
+1. This command will download all the required artifacts from the Maven Central repository and will build the project  
 	![](images/04.png)
 1. After a while you will receive a success message  
 	![](images/05.png)
@@ -106,8 +107,8 @@ Before sending this package to Neo, you might want to test it locally to see if 
 	```
 	cd ..
 	``` 
-	
-	commmands  
+	<< Note: cd.. has to be 2 times in windows to come back to execute the mvn cmd >>
+	commmands  
 	![](images/07.png)
 1. Run the command 
 	
