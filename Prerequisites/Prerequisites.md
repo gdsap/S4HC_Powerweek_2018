@@ -2,7 +2,7 @@
 <tr><td colspan=2><h1>PREREQUISITES</h1></td></tr>
 <tr><td><h3>SAP Partner Workshop</h3></td><td><h1><img src="images/clock.png"> &nbsp;30 min</h1></td></tr>
 </table>
-
+hkhkjhkj
 
 ## Description
 In this exercise, you’ll go through the basic steps of setting up the development environment required for S/4HANA Cloud extension workshop.
